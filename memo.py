@@ -1,5 +1,5 @@
 #Test
-print('Hello', 'Hi')
+print('Hello', 'What')
 import sys
 sys.setrecursionlimit(20000)
 from time import time
@@ -12,7 +12,7 @@ def fib(x):
 
 start = time()
 fib(30)
-end = time()``
+end = time()
 print(end-start)
 
 def memo(f):
