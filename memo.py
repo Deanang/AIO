@@ -1,5 +1,5 @@
 #Test
-print('Hello', 'What')
+print('Hello', 'What', 'Tired')
 import sys
 sys.setrecursionlimit(20000)
 from time import time
